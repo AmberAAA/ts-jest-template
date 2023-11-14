@@ -1,0 +1,15 @@
+{
+  "jest.shell": {
+    "path": "/usr/bin/zsh",
+    "args": [
+      "--login"
+    ]
+  },
+  "terminal.integrated.automationProfile.linux": {
+    "args": [
+      "--login"
+    ],
+    "path": "/usr/bin/zsh"
+  },
+  "terminal.integrated.shellArgs.linux": []
+}
