@@ -11,5 +11,6 @@
     ],
     "path": "/usr/bin/zsh"
   },
-  "terminal.integrated.shellArgs.linux": []
+  "jest.autoRun": "on-save",
+  "jest.coverageFormatter": "DefaultFormatter",
 }
